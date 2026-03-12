@@ -17,8 +17,10 @@ This editor is inspired by minimal editors such as **kilo** and **vim-like inter
 - Scrollable view
 - Cursor movement using arrows
 - Line numbers
-- 
+
 ---
 
 ## Images
+
+![App Screenshot](https://github.com/firefly221/BeEditor/blob/main/zadanka.png)
 
